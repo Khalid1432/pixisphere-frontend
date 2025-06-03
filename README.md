@@ -6,7 +6,7 @@ A modern frontend for Pixisphere — a platform that helps users discover and co
 ## 🚀 Live Demo
 
 **[▶ View Deployed Site]([https://your-live-link.vercel.app](https://pixisphere-frontend-two.vercel.app/))**  
-*(Replace this with your actual Vercel/Netlify link)*
+*(Replace this with your actual Vercel link)*
 
 ## 🧩 Tech Stack
 
